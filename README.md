@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Philipp Matthias Hauptmann
 
-<!--
-**mainman94/mainman94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Platform & DevOps Engineer** from Graz, Austria  
+Focused on infrastructure automation, cloud-native architectures & GitOps workflows  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I do
+
+- 🔧 Build and operate Kubernetes-based platforms (mostly k3s, some multi-node HA clusters)
+- 🔄 Design GitOps-driven deployment strategies using Argo CD & Helm
+- 🧰 Automate infrastructure with Terraform & Ansible
+- 🔍 Improve observability with OpenTelemetry, Prometheus and Grafana
+- 🧑‍💻 Enable cross-functional teams to work reliably and securely on modern platforms
+
+---
+
+## 🛠 My Toolbox
+
+- **Container & Orchestration:** k3s, Kubernetes, Docker, Helm  
+- **Infrastructure as Code:** Terraform, Ansible, GitLab CI  
+- **GitOps & CI/CD:** Argo CD, GitHub, GitLab, Flux (experimentally)  
+- **Monitoring:** OpenTelemetry, Prometheus, Grafana, OpenSearch  
+- **Languages & Scripting:** Bash, Python, Go (early stages)  
+- **Virtualization & Homelab:** Proxmox, VMs, ZFS, local GitOps clusters
+
+---
+
+## 🤝 Let’s connect
+
+I’m always happy to share ideas, discuss infrastructure setups, or nerd out over GitOps workflows.
+
+📍 Based in Graz, Austria  
+
+---
+
+> _“Infrastructure should enable, not obstruct. The best platform is one you don’t notice — until it matters.”_
+

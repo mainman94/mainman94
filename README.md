@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Philipp Matthias Hauptmann
 
-**Senior Platform & DevOps Engineer** from Graz, Austria  
+**DevOps Engineer | Reliability Advocate** from Graz, Austria  
 Focused on infrastructure automation, cloud-native architectures & GitOps workflows  
 
 ---
 
 ## 🚀 What I do
 
-- 🔧 Build and operate Kubernetes-based platforms (mostly k3s, some multi-node HA clusters)
+- 🔧 Build and operate Kubernetes-based platforms
 - 🔄 Design GitOps-driven deployment strategies using Argo CD & Helm
 - 🧰 Automate infrastructure with Terraform & Ansible
 - 🔍 Improve observability with OpenTelemetry, Prometheus and Grafana
@@ -17,11 +17,11 @@ Focused on infrastructure automation, cloud-native architectures & GitOps workfl
 
 ## 🛠 My Toolbox
 
-- **Container & Orchestration:** k3s, Kubernetes, Docker, Helm  
-- **Infrastructure as Code:** Terraform, Ansible, GitLab CI  
-- **GitOps & CI/CD:** Argo CD, GitHub, GitLab, Flux (experimentally)  
+- **Container & Orchestration:** GKE, k3s, Kubernetes, Docker, Helm  
+- **Infrastructure as Code:** Terraform, Ansible  
+- **GitOps & CI/CD:** Argo CD, GitHub
 - **Monitoring:** OpenTelemetry, Prometheus, Grafana, OpenSearch  
-- **Languages & Scripting:** Bash, Python, Go (early stages)  
+- **Languages & Scripting:** Bash, Python
 - **Virtualization & Homelab:** Proxmox, VMs, ZFS, local GitOps clusters
 
 ---

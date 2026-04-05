@@ -17,7 +17,7 @@ Focused on infrastructure automation, cloud-native architectures & GitOps workfl
 
 ## 🛠 My Toolbox
 
-- **Container & Orchestration:** GKE, k3s, Kubernetes, Docker, Helm  
+- **Container & Orchestration:** GKE, K3s, Kubernetes, Docker, Helm  
 - **Infrastructure as Code:** Terraform, Ansible  
 - **GitOps & CI/CD:** Argo CD, GitHub
 - **Monitoring:** OpenTelemetry, Prometheus, Grafana, OpenSearch  

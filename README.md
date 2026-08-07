@@ -1,38 +1,49 @@
 # 👋 Hi, I'm Philipp Matthias Hauptmann
 
-**DevOps Engineer | Reliability Advocate** from Graz, Austria  
-Focused on infrastructure automation, cloud-native architectures & GitOps workflows  
+**DevOps / Platform Engineer | Reliability Advocate** from Graz, Austria
+Infrastructure automation, cloud-native platforms, GitOps — and the occasional full-stack side project.
 
 ---
 
 ## 🚀 What I do
 
-- 🔧 Build and operate Kubernetes-based platforms
-- 🔄 Design GitOps-driven deployment strategies using Argo CD & Helm
-- 🧰 Automate infrastructure with Terraform & Ansible
-- 🔍 Improve observability with OpenTelemetry, Prometheus and Grafana
-- 🧑‍💻 Enable cross-functional teams to work reliably and securely on modern platforms
+- 🔧 Build and operate Kubernetes platforms on Talos Linux, GKE and K3s
+- 🔄 Run everything through GitOps — Argo CD, Argo Workflows/Events/Rollouts, Kargo progressive delivery
+- 🧰 Automate infrastructure with Terraform (Cloudflare, GitHub, OpenBao, OCI) and Ansible
+- 🔍 Instrument with OpenTelemetry, Prometheus, Grafana, Loki, Tempo
+- 🔐 Enforce policy and secret hygiene with Kyverno, Trivy Operator, External Secrets + OpenBao
+- 🛠 Write tooling in Go and full-stack apps in TypeScript when a platform needs one
 
 ---
 
 ## 🛠 My Toolbox
 
-- **Container & Orchestration:** GKE, K3s, Kubernetes, Docker, Helm  
-- **Infrastructure as Code:** Terraform, Ansible  
-- **GitOps & CI/CD:** Argo CD, GitHub
-- **Monitoring:** OpenTelemetry, Prometheus, Grafana, OpenSearch  
-- **Languages & Scripting:** Bash, Python
-- **Virtualization & Homelab:** Proxmox, VMs, ZFS, local GitOps clusters
+**Production-proven** — daily driver, running in production
+Kubernetes · Helm · ArgoCD · GitOps · Docker · Terraform · GitHub Actions · GitLab CI/CD · SUSE Rancher · SUSE Virtualization · Linux administration
+
+**Hands-on** — used and shipped with
+Ansible · Google Cloud (GCP/GKE) · K3s · Cloudflare · Prometheus & Grafana · OpenTelemetry · Vault/OpenBao + External Secrets Operator · TLS/PKI · Traefik & ingress controllers · Backup & recovery
+
+**Frontier** — actively building depth
+Talos Linux · Cilium · Argo Workflows · Service mesh (Istio, Linkerd) · Harbor · Go · TypeScript
 
 ---
 
-## 🤝 Let’s connect
+## 📦 Selected work
 
-I’m always happy to share ideas, discuss infrastructure setups, or nerd out over GitOps workflows.
-
-📍 Based in Graz, Austria  
+| Repo | What it is |
+| --- | --- |
+| [multi-k8s-infra](https://github.com/mainman94/multi-k8s-infra) | Talos Linux homelab cluster, fully GitOps-managed with Argo CD — Cilium, Kargo, observability stack, Kyverno, Longhorn, Velero |
+| [homelab](https://github.com/mainman94/homelab) | Terraform control plane: Cloudflare DNS/mail/tunnels, GitHub repo governance, OpenBao, OCI free-tier Kubernetes |
+| [homelab-terraform-modules](https://github.com/mainman94/homelab-terraform-modules) | Reusable Terraform modules backing the homelab stacks |
+| [docker-stack](https://github.com/mainman94/docker-stack) | ~25 self-hosted services as separate Docker Compose stacks (Authelia, Gitea, OpenBao, Paperless, Jellyfin, …) |
 
 ---
 
-> _“Infrastructure should enable, not obstruct. The best platform is one you don’t notice — until it matters.”_
+## 🤝 Let's connect
 
+Always happy to share ideas, discuss infrastructure setups, or nerd out over GitOps workflows.
+
+📍 Based in Graz, Austria · 🌐 [hauptmann.dev](https://hauptmann.dev)
+
+---
